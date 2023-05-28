@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding in general
 - 🌱 I’m currently learning bash git and c through ALX SE program
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "https://twitter.com/__AhmedFarouq__"
+- 📫 How to reach me [https://twitter.com/__AhmedFarouq__](url)
 
 <!---
 AhmedFarouq11011/AhmedFarouq11011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
